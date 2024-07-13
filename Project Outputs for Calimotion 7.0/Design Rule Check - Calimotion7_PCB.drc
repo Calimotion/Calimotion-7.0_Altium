@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Dumpster Baby\Desktop\Calimacil\Calimotion-7.0_Altium\Calimotion7_PCB.PcbDoc
-Date     : 2024-07-03
-Time     : 12:23:20 PM
+PCB File : C:\Users\marcu\Desktop\Calimacil\Calimotion-7.0_Altium\Calimotion7_PCB.PcbDoc
+Date     : 2024-07-10
+Time     : 10:19:36 AM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -56,4 +56,4 @@ Rule Violations :0
 
 Violations Detected : 8
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
